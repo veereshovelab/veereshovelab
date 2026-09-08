@@ -1,68 +1,79 @@
 # 👋 Hey, I'm Veeresh Murkhandi
 
-### Full-Stack Developer • AI/ML Builder • Software Engineering Student
+### Full-Stack Developer • Backend & Cloud Enthusiast • Software Engineering Student
 
-I build practical software systems that combine **web development, backend engineering, AI/ML, and real-world problem solving**.
+I enjoy building **real-world applications, backend systems and cloud-connected products**.
 
-I'm especially interested in turning ideas into working products — from backend APIs and intelligent systems to web and mobile applications.
+My main interests are **full-stack development, backend engineering, cloud technologies, databases, APIs and scalable software systems**. I also explore AI-powered features when they make sense for the product.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Software Engineering / Computer Science student
-- 💻 Building full-stack applications and backend systems
-- 🤖 Exploring AI/ML and intelligent software systems
-- 🧠 Interested in system design, APIs, databases & automation
-- 📱 Building Android applications with Kotlin
-- 🔐 Exploring cybersecurity and real-time AI systems
-- ⚡ Currently working on **SIH 2026**
-- 🌱 Continuously improving my problem-solving and software engineering skills
+- 💻 Building full-stack web applications
+- ⚙️ Interested in backend development & APIs
+- ☁️ Exploring cloud computing, deployment & cloud architecture
+- 🗄️ Working with databases and backend services
+- 📱 Building applications with Kotlin / Android
+- 🔐 Interested in cybersecurity and secure systems
+- 🧩 Enjoy turning ideas into functional products
+- 🌱 Constantly learning by building and experimenting
 
-> **I don't just want to learn technologies — I want to build things with them.**
+> **Build real things. Understand how they work. Keep improving.**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### 🌐 Web & Full Stack
+### 🌐 Frontend & Full Stack
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & Databases
+### ⚙️ Backend & APIs
 
 <p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### 🤖 AI / ML
+### 🗄️ Databases
 
 <p>
-<img src="https://img.shields.io/badge/AI%2FML-Exploring-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python%20AI%20Systems-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-> Currently focusing on ML fundamentals, AI-powered applications, model integration and intelligent backend systems.
+### ☁️ Cloud & Deployment
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+
+> Currently exploring cloud infrastructure, deployment, backend hosting, managed services and scalable application architecture.
 
 ### 🔧 Tools
 
@@ -79,94 +90,76 @@ I'm especially interested in turning ideas into working products — from backen
 
 ## 🤖 Hybrid AI Candidate Ranking System
 
-An AI-assisted candidate ranking platform designed to help analyze and compare candidates through a structured dashboard.
+A full-stack candidate analysis and ranking platform combining a web dashboard with a backend processing pipeline.
 
 **Highlights:**
-- 🧠 AI-assisted candidate evaluation
-- 📊 Candidate rankings & comparison
-- 📋 Candidate dossiers
-- 🔍 Explainability-oriented results
-- 📈 Analytics dashboard
-- ⚙️ Python backend processing
-- 🌐 Next.js frontend
 
-**Focus:** `AI/ML` `Python` `Next.js` `Backend` `Data Processing`
+- 📊 Candidate ranking & comparison
+- 📋 Candidate dossiers
+- 🔍 Explainability-focused results
+- 📈 Analytics dashboard
+- ⚙️ Backend processing pipeline
+- 🌐 Next.js frontend
+- 🗄️ Structured data processing
+
+**Focus:** `Full Stack` `Backend` `Next.js` `Data Processing`
 
 ---
 
 ## 📱 ClgMate
 
-A hyper-local community-driven Android application designed around the college student ecosystem.
+A hyper-local community-driven Android application built around the college student ecosystem.
 
 **Highlights:**
-- 📱 Android application
-- 👥 Student-focused community features
-- 🔐 Authentication / environment configuration
-- 🤖 Gemini API integration
-- 🧩 Modular Android project structure
 
-**Focus:** `Kotlin` `Android` `APIs` `AI Integration`
+- 📱 Android application
+- 👥 Student-focused community
+- 🔐 Authentication & configuration
+- 🤖 API integration
+- 🧩 Modular application structure
+
+**Focus:** `Kotlin` `Android` `APIs` `Application Development`
 
 ---
 
-## 🌐 Vorynx / Crowdfunding Platform
+## 🌐 Vorynx — Crowdfunding Platform
 
-A web platform concept focused on reducing barriers between projects and potential supporters.
+A web platform concept designed to reduce barriers between projects and potential supporters.
 
 **Highlights:**
-- 💳 UPI-based contribution flow
+
+- 💳 UPI contribution flow
 - 🌍 Multi-currency support
 - 🔐 Authentication
 - ☁️ Firebase / Supabase integration
 - 🖥️ Modern web architecture
 
-**Focus:** `JavaScript` `Web Development` `Firebase` `Supabase`
+**Focus:** `JavaScript` `Web Development` `Backend Services` `Cloud`
 
 ---
 
-# 🧠 Currently Building
+# ☁️ What I'm Currently Exploring
 
-## 🛡️ SIH 2026 — AI Voice Clone Detection
-
-Currently working on a **Smart India Hackathon 2026** problem focused on:
-
-> **AI-Powered Real-Time Detection and Prevention of Voice Cloning Impersonation Attacks**
-
-Areas I'm exploring through this project:
-
-- 🎙️ Real-time audio processing
-- 🤖 AI/ML-based voice analysis
-- 🔊 Acoustic & spectral features
-- ⚡ Real-time detection pipelines
-- 📊 Dynamic impersonation risk scoring
-- 🔐 Cybersecurity
-- 🌐 Backend/API integration
-- 🌍 Multilingual & diverse voice conditions
-
-This project is helping me understand how **AI, backend systems and cybersecurity can work together in a real-world application.**
-
----
-
-# 🎯 What I'm Learning Now
+My current focus is moving beyond simply building applications and understanding **how applications are deployed, connected and scaled**.
 
 ```text
-Backend Engineering
+Cloud
+├── Cloud Platforms
+├── Deployment
+├── Managed Services
+├── Cloud Databases
+└── Application Architecture
+
+Backend
 ├── Node.js
 ├── REST APIs
 ├── Authentication
 ├── Databases
-└── Real-time systems
+└── Real-time Systems
 
-AI / ML
-├── Machine Learning fundamentals
-├── AI application architecture
-├── Model integration
-├── NLP
-└── Audio / Speech AI
-
-Software Engineering
-├── System Design
-├── Clean Architecture
-├── Git & GitHub
+Full Stack
+├── JavaScript
+├── React
+├── Next.js
 ├── APIs
-└── Problem Solving
+└── Database Integration
