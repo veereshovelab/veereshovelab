@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Veeresh Murkhandi
 
-### Full-Stack Developer • Backend & Cloud Enthusiast • Software Engineering Student
+### Full-Stack Developer • Cloud Enthusiast • Software Engineering Student
 
 I enjoy building **real-world applications, backend systems and cloud-connected products**.
 
