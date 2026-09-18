@@ -16,7 +16,6 @@ My main interests are **full-stack development, backend engineering, cloud techn
 - ☁️ Exploring cloud computing, deployment & cloud architecture
 - 🗄️ Working with databases and backend services
 - 📱 Building applications with Kotlin / Android
-- 🔐 Interested in cybersecurity and secure systems
 - 🧩 Enjoy turning ideas into functional products
 - 🌱 Constantly learning by building and experimenting
 
