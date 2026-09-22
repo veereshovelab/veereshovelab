@@ -8,30 +8,30 @@ My main interests are **full-stack development, backend engineering, cloud techn
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Software Engineering / Computer Science student
-- 💻 Building full-stack web applications
-- ⚙️ Interested in backend development & APIs
-- ☁️ Exploring cloud computing, deployment & cloud architecture
-- 🗄️ Working with databases and backend services
-- 📱 Building applications with Kotlin / Android
-- 🌱 Constantly learning by building and experimenting
+- Software Engineering / Computer Science student
+-  Building full-stack web applications
+-  Interested in backend development & APIs
+-  Exploring cloud computing, deployment & cloud architecture
+-  Working with databases and backend services
+-  Building applications with Kotlin / Android
+-  Constantly learning by building and experimenting
 
 > **Build real things. Understand how they work. Keep improving.**
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
-### 🌐 Frontend 
+###  Frontend 
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -41,7 +41,7 @@ My main interests are **full-stack development, backend engineering, cloud techn
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -49,7 +49,7 @@ My main interests are **full-stack development, backend engineering, cloud techn
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -57,7 +57,7 @@ My main interests are **full-stack development, backend engineering, cloud techn
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & Deployment
+### Cloud & Deployment
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -69,7 +69,7 @@ My main interests are **full-stack development, backend engineering, cloud techn
 
 > Currently exploring cloud infrastructure, deployment, backend hosting, managed services and scalable application architecture.
 
-### 🔧 Tools
+### Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -80,7 +80,7 @@ My main interests are **full-stack development, backend engineering, cloud techn
 
 ---
 
-# 🔥 Featured Projects
+#  Featured Projects
 
 ## 🤖 Hybrid AI Candidate Ranking System
 
