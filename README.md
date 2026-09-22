@@ -18,7 +18,6 @@ My main interests are **full-stack development, backend engineering, cloud techn
 -  Building applications with Kotlin / Android
 -  Constantly learning by building and experimenting
 
-> **Build real things. Understand how they work. Keep improving.**
 
 ---
 
