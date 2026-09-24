@@ -99,22 +99,6 @@ A full-stack candidate analysis and ranking platform combining a web dashboard w
 
 ---
 
-## 📱 ClgMate
-
-A hyper-local community-driven Android application built around the college student ecosystem.
-
-**Highlights:**
-
-- 📱 Android application
-- 👥 Student-focused community
-- 🔐 Authentication & configuration
-- 🤖 API integration
-- 🧩 Modular application structure
-
-**Focus:** `Kotlin` `Android` `APIs` `Application Development`
-
----
-
 ## 🌐 Vorynx — Crowdfunding Platform
 
 A web platform concept designed to reduce barriers between projects and potential supporters.
