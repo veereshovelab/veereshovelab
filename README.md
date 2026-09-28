@@ -139,4 +139,3 @@ Full Stack
 ├── React
 ├── Next.js
 ├── APIs
-└── Database Integration
