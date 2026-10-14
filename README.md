@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Veeresh Murkhandi
+# Hey, I'm Veeresh Murkhandi
 
 ### Full-Stack Developer • Cloud Enthusiast • Software Engineering Student
 
